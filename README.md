@@ -1,2 +1,3 @@
 # Medical-Inventory-Optimization
-Analyzed dataset of 9551 restaurants in 15+ countries, which shows average rating of 2.6/5 &amp; average cost 1.2K.   Crafted Power BI reports for global analysis &amp; restaurant performance by using Power Query, Charts and DAX for calculations. 
+This project scope is reducing the bounce rate by maximizing the profits and increase the customer's satisfaction.
+On increase of bounce rate, we use the data analytics methodology to solve the problem , to minimize the bounce rate and maximize the profits.
